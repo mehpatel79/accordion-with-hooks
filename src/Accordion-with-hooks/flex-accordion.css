@@ -1,0 +1,11 @@
+.flex-accordion{
+    display: flex;
+    justify-content: space-between;
+}
+
+.accordion-button{
+    background-color: transparent;
+    border: none;
+    color: firebrick;
+    font-size: larger;
+}

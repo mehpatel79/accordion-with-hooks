@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
-import Accordion from './Accordion';
+//import Accordion from './Accordion-with-class/Accordion';
+import Accordion from './Accordion-with-hooks/Accordion';
 
 function App(){
 
