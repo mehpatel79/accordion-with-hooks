@@ -3,9 +3,9 @@ import './flex-accordion.css';
 
 const arraypanel = [];
 arraypanel[0] = [];
-arraypanel[1] = ["panel1"];
-arraypanel[2] = ["panel2"];
-arraypanel[3] = ["panel3"];
+arraypanel[1] = ["The city once was called"];
+arraypanel[2] = ["Vadodara is located at 22.30°N 73.19°E "];
+arraypanel[3] = ["Vadodara features a borderline tropical."];
 
 const Panel = ({activePanel}) =>{
     return(
